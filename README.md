@@ -19,7 +19,7 @@ This repo contain resource of **React Hook Part**.
     $ npm run setup
 ```
 **2. Run Project**
-This is repo contain few project inside `/parts` folder, to run project from root folder, use one of command below : 
+This is repo contain few project inside `/partrepo` folder, to run project from root folder, use one of command below : 
 ```sh
     # 01-component-state
     $ npm run part1
