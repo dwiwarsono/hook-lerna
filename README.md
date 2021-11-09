@@ -10,7 +10,19 @@ This repo contain resource of **React Hook Part**.
 
 
 ## Getting Started
-**1. Install & Setup**
+
+**1. Setup Lerna For Multi Repo**
+  More documentation: https://lerna.js.org/
+```sh
+  # Install Lerna
+  $ npm install -D lerna
+
+  # Initialize Lerna
+  $ npx lerna init
+
+```
+
+**2. Install & Setup Project**
 ```sh
     $ cd hook-lerna
 
