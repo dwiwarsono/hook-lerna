@@ -1,0 +1,12 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "scripts": {
+    "setup": "lerna bootstrap",
+    "part1": "lerna run start --scope=partrepo-01",
+    "part2": "lerna run start --scope=partrepo-02"
+  }
+}
